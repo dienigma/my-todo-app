@@ -33,10 +33,10 @@ const btnStyle = {
 };
 
 // Prototypes
-TodoItem.propTypes = {
-  todo: PropTypes.object.isRequired,
-  markComplete: PropTypes.func.isRequired,
-  delTodo: propTypes.func.isRequired
-};
+// TodoItem.propTypes = {
+//   todo: PropTypes.object.isRequired,
+//   markComplete: PropTypes.func.isRequired,
+//   delTodo: propTypes.func.isRequired
+// };
 
 export default TodoItem;
